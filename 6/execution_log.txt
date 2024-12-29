@@ -1,0 +1,16 @@
+Output from localhost:2222
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://ru.archive.ubuntu.com/ubuntu noble InRelease
+Get:3 http://ru.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Hit:4 http://ru.archive.ubuntu.com/ubuntu noble-backports InRelease
+Fetched 126 kB in 2s (67.0 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following upgrades have been deferred due to phasing:
+  python3-distupgrade ubuntu-release-upgrader-core ubuntu-release-upgrader-gtk
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+Execution status: 0
+---
